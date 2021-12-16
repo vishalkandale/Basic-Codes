@@ -20,4 +20,5 @@ int main()
     {
         cout<<"ITS CONSONANT";
     }
+    return 0;
 }
