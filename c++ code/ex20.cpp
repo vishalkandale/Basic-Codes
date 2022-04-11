@@ -3,7 +3,8 @@
 using namespace std;
 int main()
 {
-    int n;
+    typedef int l;
+    l n;
     int max;
     cout<<"Enter size of array : ";
     cin>>n;
